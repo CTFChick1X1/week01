@@ -1,12 +1,27 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using System;
 
-string firstname;
-string lastname;
+// Declare and initialize variables for first name and last name
 
-Console.Write("Enter your first name: ");
-firstname = Console.ReadLine() ?? "Unknown";
 
-Console.Write("Enter your last name: ");
-lastname = Console.ReadLine() ?? "Unknown";
+class Program
 
-Console.WriteLine($"Hello, {firstname} {lastname}!");
+{
+    static void Main(string[] args)
+    {
+        // Declare variables for first name and last name
+        string firstname;
+        string lastname;
+
+        // Ask for user input for first name and last name
+        Console.Write("What is your first name: ");
+        firstname = Console.ReadLine() ?? "Unknown";
+
+        Console.Write("What is your last name: ");
+        lastname = Console.ReadLine() ?? "Unknown";
+
+        // Write both last name and first name in the same line
+        Console.WriteLine($"Your name is {lastname},  {firstname} {lastname}!");
+    }
+}
+
