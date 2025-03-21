@@ -3,6 +3,7 @@ using System;
 
 // Declare and initialize variables for first name and last name
 
+// dotnet sln week01.sln add Exercise2/Exercise2.csproj
 
 class Program
 

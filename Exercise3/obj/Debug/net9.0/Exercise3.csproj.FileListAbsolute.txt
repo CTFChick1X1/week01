@@ -1,0 +1,15 @@
+/home/ctfchick1x1/C#/week01/Exercise3/bin/Debug/net9.0/Exercise3
+/home/ctfchick1x1/C#/week01/Exercise3/bin/Debug/net9.0/Exercise3.deps.json
+/home/ctfchick1x1/C#/week01/Exercise3/bin/Debug/net9.0/Exercise3.runtimeconfig.json
+/home/ctfchick1x1/C#/week01/Exercise3/bin/Debug/net9.0/Exercise3.dll
+/home/ctfchick1x1/C#/week01/Exercise3/bin/Debug/net9.0/Exercise3.pdb
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/Exercise3.AssemblyInfoInputs.cache
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/Exercise3.AssemblyInfo.cs
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/Exercise3.csproj.CoreCompileInputs.cache
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/Exercise3.sourcelink.json
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/Exercise3.dll
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/refint/Exercise3.dll
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/Exercise3.pdb
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/Exercise3.genruntimeconfig.cache
+/home/ctfchick1x1/C#/week01/Exercise3/obj/Debug/net9.0/ref/Exercise3.dll
